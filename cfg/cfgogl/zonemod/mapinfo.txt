@@ -350,6 +350,8 @@
 		"max_tank_z"        "4000.000000"
 		"tank_warpto"       "13428.627930 15072.313477 486.031250"
 		"max_distance"      "500"
+		"tank_ban_flow_min" "32"
+		"tank_ban_flow_max" "81"
 	}
 	"c8m5_rooftop"
 	{
