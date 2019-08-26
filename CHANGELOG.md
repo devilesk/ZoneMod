@@ -15,12 +15,18 @@
 * **Death Toll**
   * Map 1
     * Added a bus to the saferoom. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 4
+    * Added an infected climb point at the back of the road where people commonly take the event.
 
 * **No Mercy**
   * Map 1
     * Added tank ban range to prevent early tank spawns.
   * Map 4
     * Added tank ban range to prevent elevator tank spawns.
+    
+* **Swamp Fever**
+  * Map 1
+    * Added one-way drop after leaving gas station to prevent survivors from returning to spawn. [Inspired by ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
 
 * **The Parish**
   * Map 4
