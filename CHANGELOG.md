@@ -41,6 +41,7 @@
 
 * Fixed tank ban ranges not being properly applied.
 * Fixed tank damage announcement message showing incorrect survivor damage percentages.
+* Fixed error log messages due to unused and improper cvar settings.
 
 ### Miscellaneous
 
