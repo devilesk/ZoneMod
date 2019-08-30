@@ -96,8 +96,6 @@
 		"start_dist"        "100.000000"
 		"start_extra_dist"  "300.000000"
 		"end_dist"          "150.000000"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "999"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -361,7 +359,7 @@
 		"end_point"         "5675.121582 8443.446289 6142.031250"
 		"end_dist"          "100.000000"
 		"tank_ban_flow_min" "0"
-        	"tank_ban_flow_max" "999"
+		"tank_ban_flow_max" "55"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -431,8 +429,6 @@
 		"start_extra_dist"  "317.183868"
 		"end_point"         "3805.135254 -4660.525391 -151.968750"
 		"end_dist"          "795.922058"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "999"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -480,8 +476,6 @@
 		"start_extra_dist"  "344.831299"
 		"end_point"         "-5196.772949 9229.695312 -191.968750"
 		"end_dist"          "538.437988"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "999"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
@@ -536,8 +530,8 @@
 		"start_extra_dist"  "315.198547"
 		"end_point"         "6972.038086 1354.824463 274.312256"
 		"end_dist"          "183.031281"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "999"
+		"tank_ban_flow_min" "80"
+		"tank_ban_flow_max" "100"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
