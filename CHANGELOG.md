@@ -31,6 +31,10 @@
 * **The Parish**
   * Map 4
     * Removed tank ban range to allow for later tank spawns.
+    
+* **The Sacrifice**
+  * Map 3
+    * Fixed pipe bombs spawning instead of pills.
 
 ### Gameplay / Balance Changes
 
