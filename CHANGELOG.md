@@ -18,6 +18,10 @@
   * Map 4
     * Added an infected climb point at the back of the road where people commonly take the event.
 
+* **Diescraper Redux**
+  * Map 2
+    * Removed potential medkit spawn
+
 * **No Mercy**
   * Map 1
     * Added tank ban range to prevent early tank spawns.
