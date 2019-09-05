@@ -30,6 +30,10 @@
     * Added tank ban range to prevent early tank spawns.
   * Map 4
     * Added tank ban range to prevent elevator tank spawns.
+
+* **Suicide Blitz 2**
+  * Map 5
+    * Shortened intro by allowing radio button to be pressed a second time earlier.
     
 * **Swamp Fever**
   * Map 1
