@@ -21,7 +21,9 @@
 
 * **Diescraper Redux**
   * Map 2
-    * Removed potential medkit spawn
+    * Removed potential medkit spawn.
+  * Map 4
+    * Fixed potential double shotgun saferoom spawn.
 
 * **No Mercy**
   * Map 1
