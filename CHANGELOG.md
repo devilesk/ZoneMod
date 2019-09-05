@@ -17,6 +17,7 @@
     * Added a bus to the saferoom. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
   * Map 4
     * Added an infected climb point at the back of the road where people commonly take the event.
+    * Fixed pipe bomb potentially spawning outside the saferoom at the end of the level.
 
 * **Diescraper Redux**
   * Map 2
