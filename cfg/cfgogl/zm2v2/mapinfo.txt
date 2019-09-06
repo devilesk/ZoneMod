@@ -232,8 +232,6 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "200.000000"
 		"end_dist"          "350.000000"
-		"tank_ban_flow_min" "80"
-		"tank_ban_flow_max" "100"
 	}
 	"c5m5_bridge"
 	{
@@ -315,6 +313,8 @@
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
 		"max_distance"      "300"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "70"
 	}
 	"c8m2_subway"
 	{
@@ -346,6 +346,8 @@
 		"max_tank_z"        "4000.000000"
 		"tank_warpto"       "13428.627930 15072.313477 486.031250"
 		"max_distance"      "500"
+		"tank_ban_flow_min" "32"
+		"tank_ban_flow_max" "81"
 	}
 	"c8m5_rooftop"
 	{
@@ -355,7 +357,7 @@
 		"end_point"         "5675.121582 8443.446289 6142.031250"
 		"end_dist"          "100.000000"
 		"tank_ban_flow_min" "0"
-        "tank_ban_flow_max" "55"
+		"tank_ban_flow_max" "55"
 		"ItemLimits"
 		{
 			"pain_pills"    "0"
