@@ -20,6 +20,8 @@
     * Fixed pipe bomb potentially spawning outside the saferoom at the end of the level.
 
 * **Diescraper Redux**
+  * All Maps
+    * Fixed map names in mapinfo and saferoominfo not matching v3.61 map names.
   * Map 2
     * Removed potential medkit spawn.
   * Map 4
