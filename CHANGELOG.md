@@ -3,6 +3,8 @@
 ### Map Changes
 
 * **Blood Harvest**
+  * Map 1
+    * Fixed broken model used to prevent SI from getting stuck in ditch.
   * Map 3
     * Horde increased from 90 to 120. Fixes infinite hordes for sizes below 120.
   * Map 4
