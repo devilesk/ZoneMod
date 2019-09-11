@@ -22,6 +22,8 @@
 * **Diescraper Redux**
   * All Maps
     * Fixed map names in mapinfo and saferoominfo not matching v3.61 map names.
+  * Map 1
+    * Fixed elevator doing 20 damage instead of 5 damage.
   * Map 2
     * Removed potential medkit spawn.
   * Map 4
