@@ -68,6 +68,7 @@
 * Fixed Blood Harvest Stripper:Source configs not loading if lowercase map name was used to switch to maps, i.e. `!map c12m1_hilltop` instead of `!map C12m1_hilltop`.
 * Fixed syntax error in Dark Carnival map 2 Stripper:Source config.
 * Fixed syntax error in No Mercy map 2 Stripper:Source config.
+* Fixed readyup plugin changing unbreakable doors to breakable.
 
 ### Miscellaneous
 
@@ -85,5 +86,10 @@
 * Finale fixes
   * swamp_finale_fix.smx
   * suicideblitzfinalefix.smx
+* Added commands
+  * `!tankpool` - Displays list of possible tank players
+  * `!queuetank` - Adds player to list of possible tanks
+  * `!dequeuetank` - Removes player to list of possible tanks
+  * `!restartmap` - Restarts map and keeps current scores. Automatically restarts map when broken flow detected.
 
 [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
