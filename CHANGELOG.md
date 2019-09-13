@@ -10,6 +10,10 @@
   * Map 4
     * Horde increased from 60 to 120. Fixes infinite hordes for sizes below 120.
 
+* **Dead Air**
+  * Map 5
+    * Removed intro plane crash sound and shake. Taken from [NextMod](https://github.com/spoon-l4d2/NextMod)
+
 * **Dead Center**
   * Map 1
     * Added extra tier 1 weapons to saferoom.
