@@ -35,6 +35,10 @@
   * Map 4
     * Fixed potential double shotgun saferoom spawn.
 
+* **Hard Rain: Downpour**
+  * Map 5
+    * Replaced alarm car with normal car because it would cause early tank spawns.
+
 * **No Mercy**
   * Map 1
     * Added tank ban range to prevent early tank spawns.
