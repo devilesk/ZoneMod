@@ -11,6 +11,8 @@
     * Horde increased from 60 to 120. Fixes infinite hordes for sizes below 120.
 
 * **Dead Air**
+  * Map 1
+    * Block access to upper rails and upper roof sections of saferoom greenhouse
   * Map 5
     * Removed intro plane crash sound and shake. Taken from [NextMod](https://github.com/spoon-l4d2/NextMod)
 
