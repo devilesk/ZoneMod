@@ -12,6 +12,8 @@
   * Map 4
     * Horde increased from 60 to 120. Fixes infinite hordes for sizes below 120.
     * Added easier way for SI to get on top of the saferoom.
+  * Map 5
+    * Fixed out of map exploits. Taken from [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)
 
 * **Dead Air**
   * Map 1
