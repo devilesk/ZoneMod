@@ -5,6 +5,8 @@
 * **Blood Harvest**
   * Map 1
     * Fixed broken model used to prevent SI from getting stuck in ditch.
+  * Map 2
+    * Removed clipbrushes from emergency door and moved emergency sign up a bit so SI don't have to crouch to get through the door.
   * Map 3
     * Horde increased from 90 to 120. Fixes infinite hordes for sizes below 120.
   * Map 4
@@ -12,7 +14,7 @@
 
 * **Dead Air**
   * Map 1
-    * Block access to upper rails and upper roof sections of saferoom greenhouse
+    * Blocked access to upper rails and upper roof sections of saferoom greenhouse.
   * Map 5
     * Removed intro plane crash sound and shake. Taken from [NextMod](https://github.com/spoon-l4d2/NextMod)
 
