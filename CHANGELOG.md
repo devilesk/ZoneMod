@@ -11,6 +11,7 @@
     * Horde increased from 90 to 120. Fixes infinite hordes for sizes below 120.
   * Map 4
     * Horde increased from 60 to 120. Fixes infinite hordes for sizes below 120.
+    * Added easier way for SI to get on top of the saferoom.
 
 * **Dead Air**
   * Map 1
