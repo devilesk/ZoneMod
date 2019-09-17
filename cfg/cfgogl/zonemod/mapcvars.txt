@@ -1,0 +1,863 @@
+"MapCvars"
+{
+	"c1m1_hotel"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1m2_streets"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1m3_mall"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1m4_atrium"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c2m1_highway"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c2m2_fairgrounds"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c2m3_coaster"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c2m4_barns"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c2m5_concert"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c3m1_plankcountry"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c3m2_swamp"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c3m3_shantytown"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c3m4_plantation"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c4m1_milltown_a"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c4m2_sugarmill_a"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c4m3_sugarmill_b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c4m4_milltown_b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c4m5_milltown_escape"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c5m1_waterfront"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c5m2_park"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c5m3_cemetery"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c5m4_quarter"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c5m5_bridge"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c6m1_riverbank"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c6m2_bedlam"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c6m3_port"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c7m1_docks"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c7m2_barge"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c7m3_port"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c8m1_apartment"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c8m2_subway"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c8m3_sewers"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c8m4_interior"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c8m5_rooftop"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c9m1_alleys"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c9m2_lots"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c10m1_caves"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c10m2_drainage"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c10m3_ranchhouse"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c10m4_mainstreet"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c10m5_houseboat"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c11m1_greenhouse"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c11m2_offices"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c11m3_garage"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c11m4_terminal"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c11m5_runway"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c12m1_hilltop"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c12m2_traintunnel"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c12m3_bridge"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c12m4_barn"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c12m5_cornfield"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c13m1_alpinecreek"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c13m2_southpinestream"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c13m3_memorialbridge"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c13m4_cutthroatcreek"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"2019_M1b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"2019_M2b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"2019_M3b"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"bhm1_outskirts"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bhm2_dam"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bhm3_station"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bhm4_base"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"bloodtracks_01"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bloodtracks_02"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bloodtracks_03"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bloodtracks_04"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_bts01_forest"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_bts02_station"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_bts03_town"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_bts04_cinema"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_bts05_church"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_bts06_school"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"cwm1_intro"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cwm2_warehouse"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cwm3_drain"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cwm4_building"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"cotd01_apartments"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cotd02_warehouse"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cotd03_mall"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cotd04_rooftop"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_city17_01"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_city17_02"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_city17_03"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_city17_04"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_city17_05"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_ff01_woods"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_ff02_factory"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_ff03_highway"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_ff04_plant"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_ff05_station"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"dkr_m1_motel"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dkr_m2_carnival"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dkr_m3_tunneloflove"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dkr_m4_ferris"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dkr_m5_stadium"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_darkblood01_tanker"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_darkblood02_engine"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_darkblood03_platform"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_darkblood04_extraction"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_daybreak01_hotel"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_daybreak02_coastline"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_daybreak03_bridge"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_daybreak04_cruise"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_daybreak05_rescue"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"ddg1_tower_v2_1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ddg2_gristmill_v2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ddg3_bluff_v2_1"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"deadbeat01_forest"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"deadbeat02_alley"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"deadbeat03_street"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"deadbeat04_park"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d_dbd2dc_anna_is_gone"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_dbd2dc_the_mall"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_dbd2dc_clean_up"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_dbd2dc_undead_center"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_dbd2dc_new_dawn"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"death_sentence_1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"death_sentence_2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"death_sentence_3"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"death_sentence_4"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"death_sentence_5"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"cdta_01detour"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cdta_02road"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cdta_03warehouse"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cdta_04onarail"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cdta_05finalroad"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"dprm1_milltown_a"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dprm2_sugarmill_a"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dprm3_sugarmill_b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dprm4_milltown_b"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"dprm5_milltown_escape"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"ec01_outlets"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ec02_dam"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ec03_village"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ec04_powerstation"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"ec05_quarry"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c1m1_hotel_d_insane"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"hf01_theforest"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"hf02_thesteeple"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"hf03_themansion"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"hf04_escape"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"aircrash"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"rivermotel"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"outskirts"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"cityhall"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"bombshelter"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"highway01_apt_20130613"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"highway02_megamart_20130613"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"highway03_hood01_20130614"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"highway04_afb_a_02_20130616"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"highway05_afb02_20130820"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d_ihm01_forest"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ihm02_manor"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ihm03_underground"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ihm04_lumberyard"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ihm05_lakeside"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"jsarena201_town"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"jsarena202_alley"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"jsarena203_roof"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"jsarena204_arena"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_diescraper1_apartment_361"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_diescraper2_streets_361"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_diescraper3_mid_361"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_diescraper4_top_361"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d_149_1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_149_2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_149_3"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_149_4"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_149_5"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d_tbm_1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_tbm_2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_tbm_3"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_tbm_4"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_tbm_5"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"x1m1_cliffs"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"x1m2_path"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"x1m3_city"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"x1m4_forest"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"x1m5_salvation"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d_ravenholm01_blackmesa"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ravenholm02_traptown"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ravenholm03_church"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ravenholm04_cavern"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d_ravenholm05_docks"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"l4d2_stadium1_apartment"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_vs_stadium2_riverwalk"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_stadium3_city1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_stadium4_city2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"l4d2_stadium5_stadium"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"eu01_residential_b16"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"eu02_castle_b16"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"eu03_oldtown_b16"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"eu04_freeway_b16"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"eu05_train_b16"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"uz_crash"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uz_town"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uz_desert"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uz_bunker"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uz_escape"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"uf1_boulevard"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uf2_rooftops"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uf3_harbor"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"uf4_airfield"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"srocchurch"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"plaza_espana"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"maria_cristina"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"mnac"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"wfp1_track"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"wfp2_horn"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"wfp3_mill"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"wfp4_commstation"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+	"c1_mario1_1"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1_mario1_2"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1_mario1_3"
+	{
+		"l4d_no_tank_rush"	"0"
+	}
+	"c1_mario1_4"
+	{
+		"l4d_no_tank_rush"	"1"
+	}
+}
