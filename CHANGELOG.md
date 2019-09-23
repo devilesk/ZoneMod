@@ -47,6 +47,8 @@
 * **No Mercy**
   * Map 1
     * Added tank ban range to prevent early tank spawns.
+  * Map 3
+    * Warehouse door can now be shot through.
   * Map 4
     * Added tank ban range to prevent elevator tank spawns.
 
