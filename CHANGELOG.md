@@ -77,6 +77,7 @@
 * Removed first tank from all finales except Dead Center and Swamp Fever. All other finales only have one tank now.
 * Enabled world sounds
 * Added a static tank player order plugin for league matches where tank players are determined ahead of time.
+* Added a gnome to every saferoom just for fun. Removed when round goes live.
 
 ### Bug / Exploit Fixes
 
