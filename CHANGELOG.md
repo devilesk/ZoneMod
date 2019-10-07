@@ -110,5 +110,6 @@
   * `!queuetank` - Adds player to list of possible tanks
   * `!dequeuetank` - Removes player to list of possible tanks
   * `!restartmap` - Restarts map and keeps current scores. Automatically restarts map when broken flow detected.
+* Added whitelist plugin
 
 [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
