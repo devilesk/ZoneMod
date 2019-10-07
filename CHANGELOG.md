@@ -39,6 +39,9 @@
     * Removed potential medkit spawn.
   * Map 4
     * Fixed potential double shotgun saferoom spawn.
+    * Removed the two most annoying doors that can't be broken by SI near radio button.
+    * Removed glass in radio room that SI can't break, but almost always breaks immediately from gunfire.
+    * Added a small invisible blocker that blocks the ball hittable from falling into the staircase fully.
 
 * **Hard Rain: Downpour**
   * Map 5
