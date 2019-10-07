@@ -59,6 +59,7 @@
   * Map 1
     * Prevented button room from being accessible before round is live.
     * Removed button room zombie trigger and made the button trigger horde instead.
+    * Removed glow from non-hittable car.
   * Map 5
     * Shortened intro by allowing radio button to be pressed a second time earlier.
     
