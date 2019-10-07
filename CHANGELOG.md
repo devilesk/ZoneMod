@@ -60,6 +60,8 @@
     * Prevented button room from being accessible before round is live.
     * Removed button room zombie trigger and made the button trigger horde instead.
     * Removed glow from non-hittable car.
+  * Map 3
+    * Blocked jail cafeteria room skip.
   * Map 4
     * Added a crate to the sewer room for easier access to a ledge spot.
   * Map 5
