@@ -60,6 +60,8 @@
     * Prevented button room from being accessible before round is live.
     * Removed button room zombie trigger and made the button trigger horde instead.
     * Removed glow from non-hittable car.
+  * Map 4
+    * Added a crate to the sewer room for easier access to a ledge spot.
   * Map 5
     * Shortened intro by allowing radio button to be pressed a second time earlier.
     
