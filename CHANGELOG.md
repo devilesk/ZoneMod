@@ -60,6 +60,8 @@
     * Prevented button room from being accessible before round is live.
     * Removed button room zombie trigger and made the button trigger horde instead.
     * Removed glow from non-hittable car.
+  * Map 2
+    * Removed pills from end saferoom.
   * Map 3
     * Blocked jail cafeteria room skip.
   * Map 4
