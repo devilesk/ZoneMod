@@ -64,6 +64,7 @@
     * Blocked jail cafeteria room skip.
   * Map 4
     * Added a crate to the sewer room for easier access to a ledge spot.
+    * Fixed no tank spawning by preventing tanks later than 72%.
   * Map 5
     * Shortened intro by allowing radio button to be pressed a second time earlier.
     

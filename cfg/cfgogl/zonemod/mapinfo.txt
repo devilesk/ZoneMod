@@ -867,6 +867,8 @@
 		"start_extra_dist"  "259.126312"
 		"end_point"         "-8466.472656 7044.023438 -334.468750"
 		"end_dist"          "642.662781"
+		"tank_ban_flow_min" "72"
+		"tank_ban_flow_max" "85"
 		"max_distance"      "600"
 	}
 	"l4d2_stadium5_stadium"
