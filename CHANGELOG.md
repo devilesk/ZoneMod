@@ -67,6 +67,7 @@
     * Fixed no tank spawning by preventing tanks later than 72%.
   * Map 5
     * Shortened intro by allowing radio button to be pressed a second time earlier.
+    * SI can no longer get stuck in bushes above saferoom.
     
 * **Swamp Fever**
   * Map 1
