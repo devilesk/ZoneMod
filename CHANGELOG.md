@@ -89,6 +89,35 @@
   * Map 3:
     * Spit will deal no damage in the Vent leading up to the ladder, except right before the ladder.
 
+* **Arena of the Dead** [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 1
+    * Added an additional Bus on the main road during the Event, allowing for cover for the Survivors and Spawns for the Infected.
+    * Added a Hittable Car in between the (now) 2 busses.
+    * Added a Point of no return near the Alarm Car (~80% of the Map)
+    * Blocked Tank Spawns beyond 75%.
+    * Decreased Map distance to 400 (was 500)
+
+* **Daybreak** [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * All Maps:
+    * Added Mapinfo Support.
+  * Map 1:
+    * Changed Max Distance to 500 (was 400)
+  * Map 3:
+    * Blocked Elevator Spit.
+  * Map 4:
+    * Blocked Elevator Spit.
+    * Blocked Tank Spawn during Event (35%-60%)
+    * Changed Max Distance to 600 (was 700)
+
+* **Fatal Freight** [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 4:
+    * Added Mapinfo Support, fixing Medkit/Melee spawns in Saferooms.
+    * Tank will be blocked from spawning between 57%-100%.
+    * Limited the Panic Event to 200 Common, making it possible to hold out.
+    * Removed a Timer that would cause a random Survivor to call out "RUN" every 8 seconds during the Panic Event.
+    * Removed the Traincart Event.
+      * This event was actually intended to stop the Panic Event, now that it's removed the horde will keep spawning until you either reach Saferoom or have held out the 200 Common.
+
 ### Gameplay / Balance Changes
 
 * Points are frozen while tank is alive.
