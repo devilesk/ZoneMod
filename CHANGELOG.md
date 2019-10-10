@@ -76,6 +76,8 @@
     * Added one-way drop after leaving gas station to prevent survivors from returning to spawn. [Inspired by ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
 
 * **The Parish**
+  * Map 2
+    * Removed entrance door to the CEDA trailer. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
   * Map 4
     * Removed tank ban range to allow for later tank spawns.
     
