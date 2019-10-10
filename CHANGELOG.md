@@ -80,10 +80,14 @@
     * Removed entrance door to the CEDA trailer. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
   * Map 4
     * Removed tank ban range to allow for later tank spawns.
-    
+
 * **The Sacrifice**
   * Map 3
     * Fixed pipe bombs spawning instead of pills.
+
+* **City of the Dead:** [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 3:
+    * Spit will deal no damage in the Vent leading up to the ladder, except right before the ladder.
 
 ### Gameplay / Balance Changes
 
