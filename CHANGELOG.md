@@ -92,6 +92,7 @@
 * Enabled world sounds
 * Added a static tank player order plugin for league matches where tank players are determined ahead of time.
 * Added a gnome to every saferoom just for fun. Removed when round goes live.
+* Updated intro removal and throwables removal taken from L4D2-Competitive-Rework.
 
 ### Bug / Exploit Fixes
 
