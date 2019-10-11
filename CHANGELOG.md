@@ -159,5 +159,7 @@
   * `!dequeuetank` - Removes player to list of possible tanks
   * `!restartmap` - Restarts map and keeps current scores. Automatically restarts map when broken flow detected.
 * Added whitelist plugin
+* Added chat spam throttle plugin to prevent spamming the same message.
+* Added 8ball plugin.
 
-[rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
+All modified plugins can be found in the [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
