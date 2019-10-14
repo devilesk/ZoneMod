@@ -161,5 +161,6 @@
 * Added whitelist plugin
 * Added chat spam throttle plugin to prevent spamming the same message.
 * Added 8ball plugin.
+* Renamed l4d2_uniform_spit_zone.smx to l4d2_uniform_spit.smx. Taken from [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)
 
 All modified plugins can be found in the [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
