@@ -125,7 +125,8 @@
 * Enabled world sounds
 * Added a static tank player order plugin for league matches where tank players are determined ahead of time.
 * Added a gnome to every saferoom just for fun. Removed when round goes live.
-* Updated intro removal and throwables removal taken from L4D2-Competitive-Rework.
+* Updated intro removal and throwables removal. Taken from L4D2-Competitive-Rework.
+* Added Tank Rock Lag Compensation plugin. Taken from L4D2-Competitive Rework.
 
 ### Bug / Exploit Fixes
 
@@ -136,6 +137,8 @@
 * Fixed syntax error in Dark Carnival map 2 Stripper:Source config.
 * Fixed syntax error in No Mercy map 2 Stripper:Source config.
 * Fixed readyup plugin changing unbreakable doors to breakable.
+* Fixed votes taking Spectators into account. Taken from L4D2-Competitive-Rework.
+* Fixed a memory leak caused by server-side Scripts (Mainly Plugins). Taken from L4D2-Competitive-Rework.
 
 ### Miscellaneous
 
