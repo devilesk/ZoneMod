@@ -137,7 +137,9 @@
 * Fixed tank ban ranges not being properly applied.
 * Fixed tank damage announcement message showing incorrect survivor damage percentages.
 * Fixed error log messages due to unused and improper cvar settings.
-* Fixed Blood Harvest Stripper:Source configs not loading if lowercase map name was used to switch to maps, i.e. `!map c12m1_hilltop` instead of `!map C12m1_hilltop`.
+* Fixed stripper configs not loading if lowercase map name was used to switch to maps, i.e. `!map c12m1_hilltop` instead of `!map C12m1_hilltop`.
+  * Added bloodharvestfix.vpk.
+  * Added lowercase filename symlinks for Heaven Can Wait II stripper configs.
 * Fixed syntax error in Dark Carnival map 2 Stripper:Source config.
 * Fixed syntax error in No Mercy map 2 Stripper:Source config.
 * Fixed readyup plugin changing unbreakable doors to breakable.
