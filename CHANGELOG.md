@@ -118,6 +118,10 @@
     * Removed the Traincart Event.
       * This event was actually intended to stop the Panic Event, now that it's removed the horde will keep spawning until you either reach Saferoom or have held out the 200 Common.
 
+* **Left 4 Mario**
+  * Map 4:
+    * Disabled flow tank.
+
 ### Gameplay / Balance Changes
 
 * Points are frozen while tank is alive.
