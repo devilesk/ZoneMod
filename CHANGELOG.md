@@ -171,5 +171,11 @@
 * Renamed l4d2_uniform_spit_zone.smx to l4d2_uniform_spit.smx. Taken from [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework).
 * Added Lux's [l4d2_changelevel](https://github.com/LuxLuma/Left-4-fix/tree/master/left%204%20fix/l4d2_levelchanging) plugin.
   * Updated confoglcompmod.smx, basecommands.smx, basevotes.smx, and l4d2_restartmap.smx to use it.
+* Added practice config.
+  * No common infected or tank spawns.
+  * 3s SI spawn timer.
+  * MOUSE2 in ghost mode to switch SI class (including tank).
+  * !bring <player> and !goto <player> commands to teleport.
+  * No ready up.
 
 All modified plugins can be found in the [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
