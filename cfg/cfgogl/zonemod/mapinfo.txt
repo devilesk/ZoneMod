@@ -315,8 +315,6 @@
 		"end_point"         "2883.220703 2962.613037 -204.742737"
 		"end_dist"          "336.442200"
 		"max_distance"      "300"
-		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "70"
 	}
 	"c8m2_subway"
 	{

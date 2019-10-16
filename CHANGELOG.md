@@ -49,7 +49,7 @@
 
 * **No Mercy**
   * Map 1
-    * Added tank ban range to prevent early tank spawns.
+    * Added an infected ladder to climb up the one-way drop. Early tanks no longer banned.
   * Map 3
     * Warehouse door can now be shot through.
   * Map 4
