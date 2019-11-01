@@ -32,6 +32,8 @@
     * Added an infected ladder at the back of the road where people commonly take the event.
     * Fixed pipe bomb potentially spawning outside the saferoom at the end of the level.
     * Added an infected ladder to get on top of roof across door choke. [Image](images/20191101173519_1.jpg)
+  * Map 5
+    * Fixed out of map exploits.
 
 * **Diescraper Redux**
   * All Maps
