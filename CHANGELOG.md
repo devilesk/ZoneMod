@@ -46,6 +46,8 @@
     * Removed the two most annoying doors that can't be broken by SI near radio button.
     * Removed glass in radio room that SI can't break, but almost always breaks immediately from gunfire.
     * Added a small invisible blocker that blocks the ball hittable from falling into the staircase fully.
+    * Added infected ladders in main event room to stay symmetrical with opposite side. [Image](images/20191101181005_1.jpg)
+    * Removed corner boxes blocking death window. [Image](images/20191101180841_1.jpg)
 
 * **Hard Rain: Downpour**
   * Map 5
