@@ -81,6 +81,8 @@
     * Removed entrance door to the CEDA trailer. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
   * Map 4
     * Removed tank ban range to allow for later tank spawns.
+  * Map 5
+    * Fixed infected ladders on bridge missing in second round.
 
 * **The Sacrifice**
   * Map 3
@@ -180,5 +182,6 @@
   * MOUSE2 in ghost mode to switch SI class (including tank).
   * !bring <player> and !goto <player> commands to teleport.
   * No ready up.
+* Added event logger plugin.
 
 All modified plugins can be found in the [rl4d2l-plugins repository](https://github.com/devilesk/rl4d2l-plugins)
