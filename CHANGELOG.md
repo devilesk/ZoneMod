@@ -16,6 +16,10 @@
   * Map 5
     * Fixed out of map exploits. Taken from [L4D2-Competitive-Rework](https://github.com/SirPlease/L4D2-Competitive-Rework)
 
+* **Dark Carnival**
+  * Map 2
+    * Added an infected ladder to climb above the saferoom without going all the way around. [Image](images/20191101181808_1.jpg)
+
 * **Dead Air**
   * Map 1
     * Blocked access to upper rails and upper roof sections of saferoom greenhouse.
