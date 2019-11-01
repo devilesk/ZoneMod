@@ -5,6 +5,7 @@
 * **Blood Harvest**
   * Map 1
     * Fixed broken model used to prevent SI from getting stuck in ditch.
+    * Added an infected ladder to climb above into the rocks without surfing up a hill. [Image](images/20191101175646_1.jpg)
   * Map 2
     * Removed clipbrushes from emergency door and moved emergency sign up a bit so SI don't have to crouch to get through the door.
   * Map 3
