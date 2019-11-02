@@ -84,6 +84,10 @@
 * **Swamp Fever**
   * Map 1
     * Added one-way drop after leaving gas station to prevent survivors from returning to spawn. [Inspired by ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+    * Backported changes from [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
+      * Added a few spawn spots for the "first hit".
+      * Added a lot of possible spawns on the left side after the ferry.
+    * Removed hittable car added by [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
   * Map 2
     * Backported changes from [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
       * Added a few trees to make the standard event hold out spot a tad harder.
