@@ -84,6 +84,11 @@
 * **Swamp Fever**
   * Map 1
     * Added one-way drop after leaving gas station to prevent survivors from returning to spawn. [Inspired by ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 2
+    * Backported changes from [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
+      * Added a few trees to make the standard event hold out spot a tad harder.
+      * Lots of possible spawns and non-solid visual cover added after leaving the crashed airplane on both the left and right side.
+      * Added a bush and ambulance near the end, allowing players to spawn.
   * Map 3
     * Backported changes from [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
       * Added a few additional spawn spots at the end of the map.
