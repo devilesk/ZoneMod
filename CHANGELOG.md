@@ -84,6 +84,11 @@
 * **Swamp Fever**
   * Map 1
     * Added one-way drop after leaving gas station to prevent survivors from returning to spawn. [Inspired by ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+  * Map 3
+    * Backported changes from [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
+      * Added a few additional spawn spots at the end of the map.
+      * Blocked a skip at the end of the map.
+    * Removed hittable car added by [ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug).
 
 * **The Parish**
   * Map 2
