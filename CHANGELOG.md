@@ -88,6 +88,10 @@
 * **The Parish**
   * Map 2
     * Removed entrance door to the CEDA trailer. [Backport from ZoneMod 1.9.4.](https://hackmd.io/UtNSO9d1R-yCIdb2ifa6ug)
+    * Added an infected ladder to get on top of saferoom marginally faster. [Image](images/20191102031115_1.jpg)
+    * Added an infected ladder to get out of stuck spot near opening saferoom. [Image](images/20191102031405_1.jpg)
+    * Fixed a stuck spot under a building roof as well as extend it a bit so the jump to the overpass is easier. [Image](images/20191102031742_1.jpg)
+    * Prevent a random weapon spawn removal that only affects the first round. [Image](images/20191102032017_1.jpg)
   * Map 4
     * Removed tank ban range to allow for later tank spawns.
   * Map 5
