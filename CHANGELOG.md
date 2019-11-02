@@ -96,6 +96,7 @@
     * Removed tank ban range to allow for later tank spawns.
   * Map 5
     * Fixed infected ladders on bridge missing in second round.
+    * Added an infected ladder to climb above the saferoom without going on the invisible side. [Image](images/20191102032522_1.jpg)
 
 * **The Sacrifice**
   * Map 3
