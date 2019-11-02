@@ -18,6 +18,9 @@
 
 * **Dark Carnival**
   * Map 2
+    * Added infected ladders to climb above the saferoom without going all the way around. [Image](images/20191102035922_1.jpg)
+    * Added an infected ladder to replace some props in the corner of the warehouse. [Image](images/20191102040333_1.jpg)
+  * Map 4
     * Added an infected ladder to climb above the saferoom without going all the way around. [Image](images/20191101181808_1.jpg)
 
 * **Dead Air**
