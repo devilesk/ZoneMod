@@ -10,8 +10,10 @@
 		"tank_z_fix"        "1"
 		"max_tank_z"        "1200.000000"
 		"tank_warpto"       "2168.357666 5803.427734 2464.031250"
-		"tank_ban_flow_min" "28"
-		"tank_ban_flow_max" "82"
+		"tank_ban_flow_min" "20"
+		"tank_ban_flow_max" "24"
+		"tank_ban_flow_min_b" "33"
+		"tank_ban_flow_max_b" "82"
 		"max_distance"      "400"
 	}
 	"c1m2_streets"
@@ -440,6 +442,8 @@
 		"end_point"         "5274.120605 2715.548584 88.261955"
 		"end_dist"          "314.896759"
 		"max_distance"      "300"
+		"tank_ban_flow_min" "20"
+		"tank_ban_flow_max" "42"
 	}
 	"c11m2_offices"
 	{
@@ -508,8 +512,8 @@
 		"end_dist"          "264.020966"
 		"tank_ban_flow_min" "70"
 		"tank_ban_flow_max" "100"
-		"max_distance"      "400"
-		"horde_limit"       "120"
+		"max_distance"      "500"
+		"horde_limit"       "90"
 	}
 	"c12m4_barn"
 	{
@@ -518,8 +522,8 @@
 		"start_extra_dist"  "264.932068"
 		"end_point"         "10398.775391 -310.353424 2.031253"
 		"end_dist"          "316.505157"
-		"max_distance"      "400"
-		"horde_limit"       "120"
+		"max_distance"      "500"
+		"horde_limit"       "60"
 	}
 	"c12m5_cornfield"
 	{
@@ -845,6 +849,8 @@
 		"start_extra_dist"  "149.953766"
 		"end_point"         "524.056885 10057.031250 -806.850220"
 		"end_dist"          "264.000458"
+		"tank_ban_flow_min" "40"
+		"tank_ban_flow_max" "60"
 		"max_distance"      "600"
 	}
 	"l4d2_stadium3_city1"
@@ -855,8 +861,7 @@
 		"end_point"         "6849.338867 6643.520020 -390.850189"
 		"end_dist"          "298.808014"
 		"tank_ban_flow_min" "0"
-		"tank_ban_flow_max" "40"
-		"max_distance"      "500"
+		"tank_ban_flow_max" "36"
 	}
 	"l4d2_stadium4_city2"
 	{
@@ -1396,8 +1401,10 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "400.000000"
 		"end_dist"          "50.000000"
-		"tank_ban_flow_min" "30"
-		"tank_ban_flow_max" "50"
+		"tank_ban_flow_min" "20"
+		"tank_ban_flow_max" "28"
+		"tank_ban_flow_min_b" "33"
+		"tank_ban_flow_max_b" "50"
 	}
 	"l4d2_diescraper2_streets_361"
 	{
@@ -1406,7 +1413,6 @@
 		"start_dist"        "50.000000"
 		"start_extra_dist"  "350.000000"
 		"end_dist"          "50.000000"
-		"horde_limit"       "90"
 	}
 	"l4d2_diescraper3_mid_361"
 	{
@@ -1522,6 +1528,140 @@
 		"tank_ban_flow_max" "100"
 		"max_distance"      "600"
 	}
+	"l4d2_darkblood01_tanker"
+	{
+		"start_point"       "2410.578369 2926.040771 70.281250"
+		"end_point"         "1944.648560 5079.752930 -109.724747"
+		"start_dist"        "75.000000"
+		"start_extra_dist"  "150.000000"
+		"end_dist"          "50.000000"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "29"
+		"max_distance"      "500"
+	}
+	"l4d2_darkblood02_engine"
+	{
+		"start_point"       "1941.470459 5073.397949 -109.724747"
+		"end_point"         "1278.411255 243.639099 -0.968750"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "75.000000"
+		"tank_ban_flow_min" "31"
+		"tank_ban_flow_max" "36"
+		"max_distance"      "700"
+	}
+	"l4d2_darkblood03_platform"
+	{
+		"start_point"       "1941.470459 5073.397949 -109.724747"
+		"end_point"         "1278.411255 243.639099 -0.968750"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "75.000000"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "23"
+		"max_distance"      "600"
+	}
+	"l4d2_darkblood04_extraction"
+	{
+		"start_point"       "1941.470459 5073.397949 -109.724747"
+		"end_point"         "1278.411255 243.639099 -0.968750"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "75.000000"
+		"max_distance"      "800"
+	}
+	"x1m1_cliffs"
+	{
+		"start_point"       "-1015.396912 341.406525 126.031250"
+		"end_point"         "3243.783203 6433.084473 -4.936020"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "50.000000"
+	}
+	"x1m2_path"
+	{
+		"start_point"       "3243.607178 6429.794922 -4.936020"
+		"end_point"         "-1189.893921 8862.433594 -321.936340"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "300.000000"
+		"end_dist"          "50.000000"
+		"max_distance"      "600"
+		"tank_ban_flow_min" "82"
+		"tank_ban_flow_max" "100"
+	}
+	"x1m3_city"
+	{
+		"start_point"       "-1191.079956 8860.584961 -321.936340"
+		"end_point"         "-2887.968750 3387.599365 -480.968750"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "500.000000"
+		"end_dist"          "350.000000"
+	}
+	"x1m4_forest"
+	{
+		"start_point"       "-3031.968750 3448.686768 -480.968750"
+		"end_point"         "3737.209473 -3916.848633 -841.968750"
+		"start_dist"        "350.000000"
+		"start_extra_dist"  "500.000000"
+		"end_dist"          "300.000000"
+		"tank_ban_flow_min" "70"
+		"tank_ban_flow_max" "100"
+		"max_distance"      "600"
+	}
+	"x1m5_salvation"
+	{
+		"start_point"       "3724.242188 -3920.156982 -841.968750"
+		"end_point"         "6660.927246 -2910.637695 -1017.968750"
+		"start_dist"        "300.000000"
+		"start_extra_dist"  "350.000000"
+		"end_dist"          "50.000000"
+	}
+	"uz_crash"
+	{
+		"start_point"       "1729.009521 1486.328369 167.687500"
+		"end_point"         "11408.491211 -618.652161 -287.968750"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "50.000000"
+		"max_distance"      "500"
+	}
+	"uz_town"
+	{
+		"start_point"       "-1781.628296 2877.165771 -129.968750"
+		"end_point"         "-700.281616 -3940.111328 131.835098"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "500.000000"
+		"end_dist"          "50.000000"
+		"max_distance"      "600"
+	}
+	"uz_desert"
+	{
+		"start_point"       "-11129.381836 3673.422363 -59.164902"
+		"end_point"         "-1643.800415 -1653.359497 -310.312866"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "150.000000"
+		"end_dist"          "50.000000"
+	}
+	"uz_bunker"
+	{
+		"start_point"       "-6104.716309 -1081.836670 545.687134"
+		"end_point"         "-2658.645752 4147.012695 1268.131226"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "200.000000"
+		"end_dist"          "50.000000"
+		"tank_ban_flow_min" "40"
+		"tank_ban_flow_max" "46"
+	}
+	"uz_escape"
+	{
+		"start_point"       "-3425.875977 304.059143 116.131248"
+		"end_point"         "-6045.546387 922.014954 114.031250"
+		"start_dist"        "50.000000"
+		"start_extra_dist"  "500.000000"
+		"end_dist"          "50.000000"
+		"tank_ban_flow_min" "0"
+		"tank_ban_flow_max" "65"
+	}
 	"l4d2_fallindeath01"
 	{
 		"start_point"       "214.333710 -1407.492676 222.812622"
@@ -1612,5 +1752,9 @@
 		"tank_ban_flow_min" "56"
 		"tank_ban_flow_max" "99"
 		"horde_limit"       "200"
+	}
+	"dprm5_milltown_escape"
+	{
+		"max_distance" "700"
 	}
 }

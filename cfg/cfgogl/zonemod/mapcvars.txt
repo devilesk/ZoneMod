@@ -654,7 +654,7 @@
 	}
 	"l4d2_diescraper4_top_361"
 	{
-		"l4d_no_tank_rush"	"1"
+		"l4d_no_tank_rush"	"0"
 	}
 	"l4d_149_1"
 	{
